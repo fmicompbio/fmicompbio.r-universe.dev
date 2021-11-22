@@ -1,0 +1,14 @@
+[
+    {
+        "package": "swissknife",
+        "url": "https://github.com/fmicompbio/swissknife"
+    },
+    {
+        "package": "griph",
+        "url": "https://github.com/fmicompbio/griph"
+    },
+    {
+        "package": "eisaR",
+        "url": "https://github.com/fmicompbio/eisaR"
+    }
+]
