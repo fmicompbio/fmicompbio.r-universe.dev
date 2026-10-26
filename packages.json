@@ -8,7 +8,7 @@
         "url": "https://github.com/fmicompbio/griph"
     },
     {
-        "package": "eisaR",
-        "url": "https://github.com/fmicompbio/eisaR"
+        "package": "SingleMoleculeGenomicsIO",
+        "url": "https://github.com/fmicompbio/SingleMoleculeGenomicsIO"
     }
 ]
